@@ -1,0 +1,30 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.customBgColor{
+    background-color: #FFF9F4;
+}
+.customBgColorTwo{
+    background-color: #F1F1F1;
+}
+.customTextColorOne{
+    color: #FA804C;
+}
+.customTextColorTwo{
+    color: #FA804C;
+}
+.customButton{
+    background: rgb(21,0,255);
+    background: linear-gradient(180deg, rgba(21,0,255,1) 0%, rgba(0,43,193,1) 100%);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    color: #FFFF;
+    font-weight: 600;
+    font-size: 16px;
+}
+.fa-solid{
+    margin-right: 10px;
+    font-size: 18px;
+}
